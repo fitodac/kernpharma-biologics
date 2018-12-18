@@ -27,4 +27,9 @@
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarBackgroundColor" value="#00ba46" />
     <preference name="StatusBarStyle" value="lightcontent" />
+    <preference name="SplashScreenBackgroundColor" value="#00ba46" />
+    <preference name="SplashScreenWidth" value="200" />
+    <preference name="SplashScreenHeight" value="45" />
+    <preference name="ShowSplashScreenSpinner" value="true" />
+    <preference name="AutoHideSplashScreen" value="false" />
 </widget>

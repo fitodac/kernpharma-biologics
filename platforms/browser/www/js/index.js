@@ -35,9 +35,9 @@ var app = {
     onDeviceReady: function() {
 			app.receivedEvent('deviceready');
 			
-			if (cordova.platformId == 'android') {
-				StatusBar.backgroundColorByHexString("#00ba46");
-			}
+			// if (cordova.platformId == 'android') {
+			// 	StatusBar.backgroundColorByHexString("#00ba46");
+			// }
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
