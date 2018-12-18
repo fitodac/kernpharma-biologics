@@ -15,11 +15,11 @@
 		<preference name="StatusBarBackgroundColor" value="#00ba46" />
 		<preference name="StatusBarStyle" value="lightcontent" />
 
+		<preference name="SplashScreen" value="/www/img/logo.png" />
 		<preference name="SplashScreenBackgroundColor" value="#00ba46" />
 		<preference name="SplashScreenWidth" value="200" />
 		<preference name="SplashScreenHeight" value="45" />
 		<preference name="ShowSplashScreenSpinner" value="true"/>
-		<preference name="AutoHideSplashScreen" value="false" />
 
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
