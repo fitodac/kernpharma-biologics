@@ -24,4 +24,7 @@
     <allow-navigation href="http://kernpharmabiologics.com/" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#00ba46" />
+    <preference name="StatusBarStyle" value="lightcontent" />
 </widget>
